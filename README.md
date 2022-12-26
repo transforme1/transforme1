@@ -24,15 +24,16 @@ Transformei é uma plataforma de gerenciamento de negócios, que vai acabar com 
 </div>
 </p>
 
-<!-- <br>
+##
 
-<h3 align="center">📲 Cardápio Digital 📲</h3>
+<h3 align="center">☑ Funcionalidades do Projeto ☑</h3>
 <br>
-<div align="center" display="flex">
-<img src="./img/transformei-qrcode.gif" alt="Gif com um cardápio digital" width="200">
-</div>
-<p align="center">
-Criamos um atendimento rápido e eficiente via QR Code com o objetivo de diminuir as enormes filas e presando a qualidade no atendimento, onde o cliente terá acesso á um cardápio digital com todos os produtos vendidos pelo estabelecimento.</p> -->
+1️⃣ Gestão financeira <br>
+2️⃣ Gestão de vendas <br>
+3️⃣ Gestão de estoque<br>
+4️⃣ Assistente virtual<br>  
+5️⃣ Atendimento via QRCode <br>
+6️⃣ Atendimento via comando de voz
 
 ##
 
